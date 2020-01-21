@@ -1,6 +1,11 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "Octo aut autem",
-  "completed": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
